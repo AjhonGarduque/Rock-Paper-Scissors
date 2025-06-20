@@ -19,6 +19,18 @@ This is my **second Python project**, built during my first week of learning the
 - Python 3
 - `random` module
 
+## Version History
+
+### V1 — Basic Game
+- One round per play
+- Replay option (`Y/N`)
+- Score tracking
+
+### ✅ V2 — Round System
+- Added option to select a number of rounds
+- Tracks and displays round number and scores
+- Final winner announcement after last round
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Will upgrade this later on as I tackle more chapters in Python
+Will upgrade more later on
